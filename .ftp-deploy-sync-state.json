@@ -1,0 +1,1055 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1777467473668,
+    "data": [
+        {
+            "type": "file",
+            "name": ".editorconfig",
+            "size": 275,
+            "hash": "fe39e0ad06edea8e256e44f1fc4f319a8acfa785a7470af5cf6b9ed12dc34406"
+        },
+        {
+            "type": "file",
+            "name": ".env.example",
+            "size": 1086,
+            "hash": "a527dd22cebd532f74bdca8352dc2e624bdf0655a8c85be88edd35ac44bd13c3"
+        },
+        {
+            "type": "file",
+            "name": ".npmrc",
+            "size": 31,
+            "hash": "e968d1d336604e9986ea31306a4d9e1442f4312fca262f444384baf928d6560e"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 3700,
+            "hash": "1ed7f729d514ddbddaac5944a07298c3c896099ae3cab8667030145cf8ff0e47"
+        },
+        {
+            "type": "folder",
+            "name": "app"
+        },
+        {
+            "type": "file",
+            "name": "artisan",
+            "size": 425,
+            "hash": "f91a517c0c5d3a904c3f390933964a5e08ec1fc68146882730daac4aca4ffcec"
+        },
+        {
+            "type": "folder",
+            "name": "bootstrap"
+        },
+        {
+            "type": "file",
+            "name": "composer.json",
+            "size": 2901,
+            "hash": "9cacfa33da479f8b316f4c38a432819bfe52ba3bfdbe3a4758728399e943ae6f"
+        },
+        {
+            "type": "file",
+            "name": "composer.lock",
+            "size": 304537,
+            "hash": "0cba1df0d94aaffbb47bf5cfcbef623792dcb893c945f84d5129703155f766b4"
+        },
+        {
+            "type": "folder",
+            "name": "config"
+        },
+        {
+            "type": "folder",
+            "name": "database"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 81007,
+            "hash": "f79dac396fefc620bcac48b7104376ada022c381989b01991373e3352987d1cb"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 582,
+            "hash": "4c06eb567a31cdd2a7825600c36c9ece2891c609a217d0c7bd17d1718f659bbf"
+        },
+        {
+            "type": "file",
+            "name": "phpunit.xml",
+            "size": 1322,
+            "hash": "493369cfb7feea104da4bec214c2cc6526ca2f1b9d937c50a2961fc59cb61aaf"
+        },
+        {
+            "type": "folder",
+            "name": "public"
+        },
+        {
+            "type": "folder",
+            "name": "resources"
+        },
+        {
+            "type": "folder",
+            "name": "routes"
+        },
+        {
+            "type": "folder",
+            "name": "storage"
+        },
+        {
+            "type": "folder",
+            "name": "tests"
+        },
+        {
+            "type": "file",
+            "name": "vite.config.js",
+            "size": 265,
+            "hash": "b5142d4102881aa05af067f0185f3c933cdc39b83cf011208302b0432f17541f"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http"
+        },
+        {
+            "type": "folder",
+            "name": "app/Models"
+        },
+        {
+            "type": "folder",
+            "name": "app/Providers"
+        },
+        {
+            "type": "folder",
+            "name": "app/Services"
+        },
+        {
+            "type": "file",
+            "name": "bootstrap/app.php",
+            "size": 1316,
+            "hash": "4529b0019b8a319502a062b11a9d8e37882e5f12542ac043b2898ae59e2cab15"
+        },
+        {
+            "type": "folder",
+            "name": "bootstrap/cache"
+        },
+        {
+            "type": "file",
+            "name": "bootstrap/providers.php",
+            "size": 89,
+            "hash": "f720e185207a343d4c19fc99dbb317a4187efbcd7d38a303a695bbdd77ffb943"
+        },
+        {
+            "type": "file",
+            "name": "config/app.php",
+            "size": 4272,
+            "hash": "78dcd36b226fd7b24057cb95f567cb6e96561c2406653892d8aef6dcea8461e4"
+        },
+        {
+            "type": "file",
+            "name": "config/auth.php",
+            "size": 4040,
+            "hash": "c7e204e9785c9f596d66fb884b493f658f2327f157646bdb4088efd6b3a7773f"
+        },
+        {
+            "type": "file",
+            "name": "config/cache.php",
+            "size": 4155,
+            "hash": "aff5a15068835cdbbfb4ce876d34202a221933b086bf7f3f7f309d4a312a20ae"
+        },
+        {
+            "type": "file",
+            "name": "config/database.php",
+            "size": 6982,
+            "hash": "06759b7b36b8641e9025fe03dd728970c4cb02d5b58ff709cbb0649987b4bfc2"
+        },
+        {
+            "type": "file",
+            "name": "config/filesystems.php",
+            "size": 2532,
+            "hash": "ba7060d7a23e490c3ce830656f6d24ad3ccf5b868e3293f2a12e411959dc5635"
+        },
+        {
+            "type": "file",
+            "name": "config/logging.php",
+            "size": 4501,
+            "hash": "d0f92b1a488a4ce1922b67a9a5204c1b32960647d4cf46698d3585bb1399eb84"
+        },
+        {
+            "type": "file",
+            "name": "config/mail.php",
+            "size": 3631,
+            "hash": "c43ff49a31c5f32ce21eb7159f2a4b3cd2f4074eaed5838d265646dbfedd3474"
+        },
+        {
+            "type": "file",
+            "name": "config/queue.php",
+            "size": 4199,
+            "hash": "6101774da7c8b79af46d0028f2b8b31a484c3f7eda10b76e5b27b6093ad364a4"
+        },
+        {
+            "type": "file",
+            "name": "config/services.php",
+            "size": 1039,
+            "hash": "8258c4487eb1d73a97e569eb0e411e3f25368044812df4cba807860432be1d92"
+        },
+        {
+            "type": "file",
+            "name": "config/session.php",
+            "size": 8423,
+            "hash": "64272cfbef6f47c65bf857f1c5b1e853700c0d0278de46b86663fd83ef4aeed8"
+        },
+        {
+            "type": "folder",
+            "name": "database/factories"
+        },
+        {
+            "type": "folder",
+            "name": "database/migrations"
+        },
+        {
+            "type": "folder",
+            "name": "database/seeders"
+        },
+        {
+            "type": "file",
+            "name": "public/.htaccess",
+            "size": 740,
+            "hash": "b7e379c77639fd56144947dbae84c84eb466d9c686ea81f2f013ae85421da923"
+        },
+        {
+            "type": "file",
+            "name": "public/favicon.ico",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "public/images"
+        },
+        {
+            "type": "file",
+            "name": "public/index.php",
+            "size": 543,
+            "hash": "eba77cba39695b6bd091fe5211d481f7ebb2ce2d8d26230b5a609465d0a4aff9"
+        },
+        {
+            "type": "file",
+            "name": "public/logo.png",
+            "size": 1560,
+            "hash": "8d31bc0ac7d4da4425570a274c825c5f7a965b35bcba9d9ceb8cbbafcb6ce939"
+        },
+        {
+            "type": "file",
+            "name": "public/robots.txt",
+            "size": 24,
+            "hash": "e5c4b84484ee4216e9373be99380320c25dd94805f99f0a805846f087636553f"
+        },
+        {
+            "type": "folder",
+            "name": "resources/css"
+        },
+        {
+            "type": "folder",
+            "name": "resources/js"
+        },
+        {
+            "type": "folder",
+            "name": "resources/scss"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views"
+        },
+        {
+            "type": "file",
+            "name": "routes/console.php",
+            "size": 210,
+            "hash": "9adccc33e7dd400683e434774077c7fdb2f299c5712cedf16a43fdf56f2850fa"
+        },
+        {
+            "type": "file",
+            "name": "routes/web.php",
+            "size": 5924,
+            "hash": "36b4f0ecfa9f8ae6ee29fed7d78899d303a5a8545a8417bb0f8c8115d181157d"
+        },
+        {
+            "type": "folder",
+            "name": "storage/app"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework"
+        },
+        {
+            "type": "folder",
+            "name": "storage/logs"
+        },
+        {
+            "type": "folder",
+            "name": "tests/Feature"
+        },
+        {
+            "type": "file",
+            "name": "tests/TestCase.php",
+            "size": 142,
+            "hash": "c7c209f5579c42647c1f7b2a79ac828e8b54ac62a98442045a6e94fa2c0d0ebc"
+        },
+        {
+            "type": "folder",
+            "name": "tests/Unit"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Controllers"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Middleware"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Category.php",
+            "size": 656,
+            "hash": "3de52fae8d802067d4a9fc22b2601ee46d6f9549cfadda9216caf59369b624a4"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/ContactInquiry.php",
+            "size": 187,
+            "hash": "399ce38f4128428391e6bd92e377f10740eb92fa6ca4ef8356eb362c5fe73a7a"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Coupon.php",
+            "size": 277,
+            "hash": "286e1459557cebbf19eb024f63c30f1207434a486496e49703fca82628504f06"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Locality.php",
+            "size": 391,
+            "hash": "2b7d4efb7c265022078668753174b517940bf6e73657d4e16c296108e31c1a78"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Order.php",
+            "size": 968,
+            "hash": "37620bd6f0ca332deb9ac12b2280196081a9c53c67fc105af166a874d88f8f07"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/OrderItem.php",
+            "size": 591,
+            "hash": "89f5ae88791f0fd66c9842a6a7dccfc303a8f9cb078953f980dad28075c1fabb"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/OrderStatusHistory.php",
+            "size": 384,
+            "hash": "b3702f7cf95bbfec550cf8da1db2c85c33c7481d27565ef9adf98cbc0ce3a110"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Payment.php",
+            "size": 371,
+            "hash": "25a90ea96588c7eb92f456e104fd5b0722b49c50c61f8d35f471b4c4ae2e15ac"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Product.php",
+            "size": 822,
+            "hash": "d3d0cd8ca5093cb2a21a7becadf53eca88e1dc02481d9e3c3eb1577b384301af"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Store.php",
+            "size": 534,
+            "hash": "98b4804f4860d933c88c852b03a0cc01a5b38a2d61f50acff1cdd3df40dcb057"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/User.php",
+            "size": 957,
+            "hash": "58cb2436305e63f160d4441ba59167718a9daa5982bb0ebb696a051e681c41ae"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/ProductOption.php",
+            "size": 367,
+            "hash": "13d7e37cf70325e15b34da25506f760c1e3a1c7b69314a040338b30f419a8486"
+        },
+        {
+            "type": "file",
+            "name": "app/Providers/AppServiceProvider.php",
+            "size": 361,
+            "hash": "caf306ef6a25a547bbb7edd5508a39b51c365083eb6dd58378cf2242018e94c7"
+        },
+        {
+            "type": "file",
+            "name": "app/Services/NotificationService.php",
+            "size": 2939,
+            "hash": "dc576ffc1973951770862fc5c9f35d2ef152747e8dd812b13f2994ed1496549d"
+        },
+        {
+            "type": "file",
+            "name": "database/factories/UserFactory.php",
+            "size": 1044,
+            "hash": "50bdc543f1b09d1a57260be55ad0e1a68aee4b34f63e1109dc94d9bcd3080526"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/0001_01_01_000000_create_users_table.php",
+            "size": 1684,
+            "hash": "86519e7d34770deff81308d2342468906a3814c7d982cfc9bcdbf5082dc60bf4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/0001_01_01_000001_create_cache_table.php",
+            "size": 873,
+            "hash": "fbb4665e5a977e71df4e74ec75b3c06ca4f17ad0de7138fe9786639189978e77"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+            "size": 1813,
+            "hash": "6ca510591ec9fd71fa15d64879f38d80e8201047f27afb0a8da41f5c8937dc09"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_084707_create_localities_table.php",
+            "size": 745,
+            "hash": "f253c750a94b4fa2a73dd19a1b24d2b69c41925ca0fea9819bc467a58ac29eff"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_084708_create_categories_table.php",
+            "size": 725,
+            "hash": "56ec81486c6a71f9c7ebcf04494ffe2e12ffa3e765f95492ceddd183ca7eb5ae"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_084708_create_stores_table.php",
+            "size": 961,
+            "hash": "97d630515cd787ea3f9d67c91fbd002c7e25f479e7f11b0ab263af6f47fcff18"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_084710_create_products_table.php",
+            "size": 930,
+            "hash": "5b39afe61c9091088f0acc2ad1c4198bc02ff06cdd99690e17d8a550bc7e45a9"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_084711_create_product_options_table.php",
+            "size": 731,
+            "hash": "37f476c9fa00baf3bb637bf6fc3ff849a06364e4623c470d8c6d28cb48f31e03"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_092400_create_coupons_table.php",
+            "size": 1032,
+            "hash": "82ef37a8da02c777a586f0747f55fbe430930360d197d7f8fd47ac5192368b2f"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_092401_create_orders_table.php",
+            "size": 1810,
+            "hash": "69645c8f24c0ed821fcfa20c6446db838fbf1f5e52e01e01908adcc3a91c72d5"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_092409_create_order_items_table.php",
+            "size": 1219,
+            "hash": "2b6205145ca713f5abcc7ce3c23782bba795b10e67bde2fc09b7aa647fa35616"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_092409_create_order_status_histories_table.php",
+            "size": 824,
+            "hash": "af7f34c62f5e6d5d0b1aebb62fa445c970d1faf5d617fb06e1c15505c87c6fb4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_145825_create_payments_table.php",
+            "size": 919,
+            "hash": "eb5bb33352881fa22a0d23c2ee2b89fcf1b844539ab7e2a67c16662af10bd306"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_23_145850_add_razorpay_to_stores_table.php",
+            "size": 723,
+            "hash": "dcbd3c12688ced1a2363d04b95d07ec615eee45834d78207dc52d9b6b3d28351"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2026_04_28_080804_create_contact_inquiries_table.php",
+            "size": 800,
+            "hash": "90fe77e7ce9a8ba4d531a779d786b4c0ce16ee694ee33153aa2d2d62c2a2decb"
+        },
+        {
+            "type": "file",
+            "name": "database/seeders/DatabaseSeeder.php",
+            "size": 590,
+            "hash": "4c600b58ef1cab99dd41816980c40ae3eb89dbbea8af7ee1a384aafe8bd35ceb"
+        },
+        {
+            "type": "folder",
+            "name": "public/images/site"
+        },
+        {
+            "type": "file",
+            "name": "resources/css/app.css",
+            "size": 390,
+            "hash": "9f49ed837fdc773b89a294d1e86dc68828ef2f774d7e797ba5f89c2a08c84760"
+        },
+        {
+            "type": "file",
+            "name": "resources/js/app.js",
+            "size": 101,
+            "hash": "55b9137da506a8ddb8079abee9f01bb4eeda344bd6b7a62ac146ebdfd258ab79"
+        },
+        {
+            "type": "file",
+            "name": "resources/scss/app.scss",
+            "size": 75,
+            "hash": "c946de0d4d1b9a6e0a1c9b41a6b0ba399ef777521b77e382c3e7b2fe906f4148"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/auth"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/dashboard.blade.php",
+            "size": 2526,
+            "hash": "80eb35ee8c4d0bc4c1529edb50dfe9420eabdce90f9a9cd6a5a650e20c8b3b28"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/layouts"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/welcome.blade.php",
+            "size": 72477,
+            "hash": "9a24d81cee3631004843d7865999fa5a8436b8a5727a056f2e626d72a9f1ba6e"
+        },
+        {
+            "type": "folder",
+            "name": "storage/app/private"
+        },
+        {
+            "type": "folder",
+            "name": "storage/app/public"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/cache"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/sessions"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/testing"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/views"
+        },
+        {
+            "type": "file",
+            "name": "tests/Feature/ExampleTest.php",
+            "size": 359,
+            "hash": "aaa4a192fb4aa96d4e81eda06a29968da3d9a73b71026b87a67297e66dd985b8"
+        },
+        {
+            "type": "file",
+            "name": "tests/Unit/ExampleTest.php",
+            "size": 243,
+            "hash": "ffacae5c1a2a44c809420af5b3b404910da1b12167d58764dac6d10b8ba8cfaf"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/AdminContactController.php",
+            "size": 1195,
+            "hash": "1adc693594580798104c4670d72c59e25933edc10d454bf93bc72599fcc13a4d"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/AuthController.php",
+            "size": 2347,
+            "hash": "178f0462668deaafcec4b9c6be1ad5d3bd76e55bbd94a5633ffcf52e1197c2b0"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/CategoryController.php",
+            "size": 1715,
+            "hash": "8889e3cf45a608539536de8b2bb2dbecd9fa9b7374cb704fd05aac288c5bef3f"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/ContactController.php",
+            "size": 1067,
+            "hash": "33fe8f6a2714aa08b77ad1e24a05f414e367b1f4261e7bfb663cbc54dd3f03ad"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Controller.php",
+            "size": 77,
+            "hash": "25d1c1ef8e6cc8a376553faacfba2b07d9dfaee9bdbb84f14f77517580e9deb1"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/CouponController.php",
+            "size": 2428,
+            "hash": "a4dfd80138c608ebde05d8343f596d7eab7a63bd98487fd8b783d782f93a4e28"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Controllers/Customer"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/DashboardController.php",
+            "size": 967,
+            "hash": "7b51d09385e12d12cd25a607be9c6597132b16e9c06ba5dc4d059b79488dc34f"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/LocalityController.php",
+            "size": 1945,
+            "hash": "d205631c03e4a2c1065e3d2e5faba96aa311e556b64ad24781fe99c36ac9de30"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/OrderController.php",
+            "size": 3580,
+            "hash": "dc533eb3856d3da20d64de033916bfd47ca43fe7f711cd78572bb7f6891f3b66"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/OrderItemController.php",
+            "size": 1074,
+            "hash": "e471d4d28557affd1770b16a62f1653ceedf3836d8cc2893fdb9339bce0073dc"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/OrderStatusHistoryController.php",
+            "size": 1164,
+            "hash": "847de2f5537c32d132f004b5aee1c8b67c4386379cfa335f9a378667eb103fd0"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/PagesController.php",
+            "size": 765,
+            "hash": "856a02bb7eab819ecfd72388d1fc21f00a7c50ccc977030388838897f52b6943"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/PaymentController.php",
+            "size": 3663,
+            "hash": "cac3326b7376748f08570b800fee04fe1709e77a84aaa600eb1e344067139efe"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/PosController.php",
+            "size": 7971,
+            "hash": "58171a4e1c1a6640c38838dd3c3e20d2a4118a63dd85b006c57c4ec0c69a445c"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/ProductController.php",
+            "size": 3730,
+            "hash": "db801ed830932f4f24f90bb2c4f067c0b38c9e5a4de2a75fce76467435c37710"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/ProductOptionController.php",
+            "size": 2568,
+            "hash": "30e6928bf754123eac5420cbf03d0876671475de2472845e6e7729da70d7db60"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/StoreController.php",
+            "size": 5208,
+            "hash": "7aa216970815e13300721c881705a093006c6709c11d5ad37ce22b7b514ce9f6"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/WhatsappController.php",
+            "size": 7940,
+            "hash": "7ed2763a342189e915e3223a19153ec8fb91f2ed2e2e8125cec46e8ae3c1a3c5"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Middleware/CheckRole.php",
+            "size": 787,
+            "hash": "144e4ac2774d918883d88a76398c423d1309a65bb83dd2f71142d90b4e610fc0"
+        },
+        {
+            "type": "file",
+            "name": "public/images/site/about.png",
+            "size": 737656,
+            "hash": "69a918f33e4e536c8c032ea2c39403cb83110e177042ac98d05e7b22308030a4"
+        },
+        {
+            "type": "file",
+            "name": "public/images/site/hero.png",
+            "size": 727069,
+            "hash": "5baf948357ad1b835a0b07c744854dd476d18bcd7910ac1caa472342b87f9cbd"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/categories"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/coupons"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/inquiries"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/localities"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/orders"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/pos"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/product_options"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/products"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/stores"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/whatsapp.blade.php",
+            "size": 4650,
+            "hash": "d0f3c7f6c663690dd466421508017d43be79904919d48cce5a9c8a346fc0ddbc"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/auth/login.blade.php",
+            "size": 4504,
+            "hash": "f66dcbdabe1d326af1cce94a2e1ba448f7fa5c636141a31b2ed1f968f2c907ea"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/auth/register.blade.php",
+            "size": 3871,
+            "hash": "ec83e53fc388f0e030285b1d61322002f89b208de74436d1102a708c2f681aa5"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/about.blade.php",
+            "size": 4992,
+            "hash": "2b2f893a746674348d9655da952b87db57545d43e770f5abd9c92c4a25c17f86"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/account"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/cart"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/categories"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/checkout"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/contact.blade.php",
+            "size": 6786,
+            "hash": "da2421e0fd39da42e1fffeb14e1cac983c576c3ef21bc3a99f5e7548912695ba"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/home.blade.php",
+            "size": 11334,
+            "hash": "5933b591e5ce4fb357d4fb753ddd9deeb6cca31793f9b50ae2d73826c80d1f9f"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/products"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/layouts/admin.blade.php",
+            "size": 8517,
+            "hash": "44ff5ff72105c2afd1c89595e1dd9707c620eeafafe9e7a9c656afc58efafda4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/layouts/app.blade.php",
+            "size": 14519,
+            "hash": "1f012d602dbba5e9659b6dd6a3e7214506d922595b71b90b8c60f277cccace56"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/cache/data"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/categories/create.blade.php",
+            "size": 1643,
+            "hash": "2974c41364da373eb355095eb34ec29423784439400ba5fe3ebd6c82a2a06e3c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/categories/edit.blade.php",
+            "size": 1725,
+            "hash": "9dd8a45f77eb34e4f5ac4ce3b635c99baca39fd180a31135f84b4beba1e2acef"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/categories/index.blade.php",
+            "size": 2221,
+            "hash": "feb487a86778e8a5e3f5e546ced06addb502186d8d6344c1f2c5e543320162d0"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/coupons/create.blade.php",
+            "size": 3964,
+            "hash": "19198b3832efc52bfe80d50fa3d11151e4da441afb1f1121a6cbe8776aafef53"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/coupons/edit.blade.php",
+            "size": 4133,
+            "hash": "fb135ac25201dff24dfc2c297786531d92a46b1fd690e4aa72056f6612fa9622"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/coupons/index.blade.php",
+            "size": 2914,
+            "hash": "bdd68243685fde89cbd894533f8cb810855d92dc2e1f48e1c3d0a03d5991d1f0"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Customer/AccountController.php",
+            "size": 1140,
+            "hash": "bbe5868c5f2c2d3f2dd51b039942abf6f8ee67d971e0cb5b06e6065a8c9bc8db"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Customer/CartController.php",
+            "size": 3303,
+            "hash": "34ec950f1fae20a38907221aa369cdbaf56c9fd9d0177a9baf105edd0c31b1fd"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Customer/CheckoutController.php",
+            "size": 4468,
+            "hash": "b4fe74b78516dd6773e7fc76a5a738793b660cad7e20ebf77f82e14645f92503"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Customer/ProductController.php",
+            "size": 1243,
+            "hash": "c776e40c43a4a69dba95e33112ff75584636d8c205b2b75216c4af62a5796f79"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/inquiries/index.blade.php",
+            "size": 4957,
+            "hash": "3b8ef1f4144c9cdb5a3f89540900d99f53320b37b6411920e99da98b4a0074d7"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/inquiries/show.blade.php",
+            "size": 2861,
+            "hash": "ee7cab75a2d053d58a5ba9f886d8304270a47b25c52c5d20cfd4832cb8b06316"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/localities/create.blade.php",
+            "size": 2580,
+            "hash": "cf6fb800576bb835d645e3f5806d180f70c0a148a375c4fca5e992ed6ce38ff8"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/localities/edit.blade.php",
+            "size": 2519,
+            "hash": "bac8beb3574301492884a127e3d276c4303b3034c3121853aa96fa3274faea6c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/localities/index.blade.php",
+            "size": 2344,
+            "hash": "6a79127d46d609605f3b8092bbf8159053776b8dafacdaa8047503933b9e4195"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/orders/index.blade.php",
+            "size": 6584,
+            "hash": "68c40a0eca470e5008600c689fe40eb7b5879f6b98856106b28bff4f51cec95b"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/admin/orders/partials"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/orders/print_tags.blade.php",
+            "size": 3129,
+            "hash": "3af5c06019b685c7642f2ce93661f29e7331aab7e0638003ceb3d3cbda632064"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/orders/show.blade.php",
+            "size": 12085,
+            "hash": "2c8d031e8096dc19af04dde2a0e0fd4a6b439eea49e92c713d367859f9b339fa"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/pos/index.blade.php",
+            "size": 22680,
+            "hash": "3626d07d2834762e8c7cd651aff2929492eb2bb3744570ecfac358c81c1b2053"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/product_options/create.blade.php",
+            "size": 2249,
+            "hash": "31500ac7f12b5a91841746baf8767ea6ba8f17c887978eeee709f02c6a0eb54a"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/product_options/edit.blade.php",
+            "size": 2244,
+            "hash": "4771c44a79adc0e583c704f308c39a2a098dc5fadd268f43ae9e9c3ee0b2efd1"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/product_options/index.blade.php",
+            "size": 2421,
+            "hash": "de2b5f1b7a3e16f0a69bdaa658c761b1f59c66abf4fe4636ed93e2ab68d914a8"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/products/create.blade.php",
+            "size": 4966,
+            "hash": "79b08723e801e2efae27e7e81a0f3e016c3ba065f7d03181a099a60eae01bb11"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/products/index.blade.php",
+            "size": 2532,
+            "hash": "136d9866856449a70b1aef98b25cb1b424b79b332297e0cb180a4d4041184950"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/products/edit.blade.php",
+            "size": 6255,
+            "hash": "89941975b9bdaa5c8ee90a5aab62a6ac20b71e4bbaef96f5c47b5a4983b0e65c"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/stores/create.blade.php",
+            "size": 4791,
+            "hash": "fc9803cd1ae5811e456ea488e22dd1e6fcb912ff6dc77757f1d3ea2fa063fcf2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/stores/edit.blade.php",
+            "size": 5188,
+            "hash": "ebdc01b0a4959f967eadcf8d5b1974bf114abdf3d42b6c01a9402e7b631ae8f0"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/stores/index.blade.php",
+            "size": 2782,
+            "hash": "9205d0d46522eb19836ecb441b346ed66a824f070d7c8a70a06021ea017b8caa"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/account/dashboard.blade.php",
+            "size": 5389,
+            "hash": "7fdcd7fa2fc5901378bcdc60b817672b5656e4b7c926b959467d41c2f1265304"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/frontend/account/orders"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/cart/index.blade.php",
+            "size": 7353,
+            "hash": "36eb7bfaaf18d4606eadaf1ee36fa23d4d57b78bc5dd92732dd6ec2efc1b24f6"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/categories/index.blade.php",
+            "size": 2509,
+            "hash": "89e6ad4a60c748312f5cca7f4dc186e770927526267bd9a09aa322b8f63e5fbe"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/checkout/index.blade.php",
+            "size": 7081,
+            "hash": "82fa5c239a6577ade5deb27ca551508c4ff25293a389038bbaee33a15fcb21f7"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/checkout/success.blade.php",
+            "size": 2730,
+            "hash": "3c2ad465210c78ad467bee5c1b0abd5dfbbbe8b395d2ae81746e798ddff1d560"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/products/index.blade.php",
+            "size": 3706,
+            "hash": "a91aa6af2ff3b2643bb92496e49e3e746c56836d85d3ca2c0b88ea426fd83037"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/products/show.blade.php",
+            "size": 10122,
+            "hash": "0ba697d3d69c62dbeb2a8ea1029a60c173ee2408616d2e70eb9437397bc788e2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/admin/orders/partials/receipt.blade.php",
+            "size": 3232,
+            "hash": "77424aeb3d715605490dd507f135a9a82fa4311ec240bd6feab33fa8c057679f"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/account/orders/index.blade.php",
+            "size": 4127,
+            "hash": "4a92adfee76ce0b9a4f9f206f039159df5dfc3fd966b0e5651fa1e648b48d634"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/frontend/account/orders/show.blade.php",
+            "size": 9047,
+            "hash": "46fcf263b63935ff09c8ad75f8d9a0084bb80bc4eaebbdb2dbc04960ca3071ce"
+        }
+    ]
+}
